@@ -8,15 +8,10 @@ Performs Exploratory Data Analysis (EDA) using SQL to clean, aggregate, and deri
 Builds an interactive Power BI dashboard to monitor customer churn trends, credit score patterns, and demographic behavior.
 
 Tracks key KPIs:
-
 Total Customers
-
 Active Customers
-
 Inactive (Exit) Customers
-
 Churn Rate (%)
-
 Retention Rate (%)
 
 **Why the Project Is Useful**
