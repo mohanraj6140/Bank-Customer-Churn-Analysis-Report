@@ -3,6 +3,7 @@ This project provides an end-to-end analysis of customer churn in a banking data
 customer behavior, and track key performance indicators (KPIs) such as Churn Rate, Retention Rate, and Active vs Inactive Customers.
 
 **What the Project Does**
+
 Performs Exploratory Data Analysis (EDA) using SQL to clean, aggregate, and derive customer-level insights.
 Builds an interactive Power BI dashboard to monitor customer churn trends, credit score patterns, and demographic behavior.
 
