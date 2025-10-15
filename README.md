@@ -1,10 +1,9 @@
 # Bank Customer Churn Analysis Dashboard
-This project provides an end-to-end analysis of customer churn in a banking dataset using SQL for EDA and Power BI for visualization. The goal is to identify churn drivers, understand customer behavior, and track key performance indicators (KPIs) such as Churn Rate, Retention Rate, and Active vs Inactive Customers.
+This project provides an end-to-end analysis of customer churn in a banking dataset using SQL for EDA and Power BI for visualization. The goal is to identify churn drivers, understand
+customer behavior, and track key performance indicators (KPIs) such as Churn Rate, Retention Rate, and Active vs Inactive Customers.
 
 **What the Project Does**
-
 Performs Exploratory Data Analysis (EDA) using SQL to clean, aggregate, and derive customer-level insights.
-
 Builds an interactive Power BI dashboard to monitor customer churn trends, credit score patterns, and demographic behavior.
 
 Tracks key KPIs:
