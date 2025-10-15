@@ -60,6 +60,13 @@ Total Customers = DISTINCTCOUNT('Customer'[CustomerID])
 
 Active Customers = CALCULATE(DISTINCTCOUNT('Customer'[CustomerID]), 'Customer'[Status] = "Active")
 
+<img width="906" height="510" alt="image" src="https://github.com/user-attachments/assets/5196012e-26b6-48db-8c64-5712d751e478" />
+
+
+<img width="904" height="508" alt="image" src="https://github.com/user-attachments/assets/a60be3ca-5394-4186-a07a-e64e548acd7d" />
+
+
+
 Inactive Customers = CALCULATE(DISTINCTCOUNT('Customer'[CustomerID]), 'Customer'[Status] = "Exit")
 
 Churn % = DIVIDE([Total Customers] - [Retain Customers], [Total Customers], 0) * 100
